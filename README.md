@@ -1,7 +1,14 @@
 
 # <p align="center">About Me</p>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Insolata&size=25&duration=3000&pause=1000&color=28F70E&center=true&width=435&lines=Hi%2C+Im+Luis;But+you+can+call+me+Xet...;Im+a+computer+science+student" alt="Typing SVG" /></a>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Insolata&size=25&duration=3000&pause=1000&color=28F70E&center=true&width=435&lines=Hi%2C+Im+Luis;But+you+can+call+me+Xet...;Im+a+computer+science+student" alt="Typing SVG" />
+    </a>
+</p>
+
+
+
 ----------
 <div id="user-content-toc">
   <ul align="center">
@@ -30,9 +37,6 @@
 </table>
 <!--- stats (end) -->
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
-
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -54,3 +58,12 @@
     <img src="https://skillicons.dev/icons?i=python,cs,js,css,html,react,vue,astro,vite,go,sqlite,nodejs,net,flask,visualstudio,vscode,&perline=14" />
   </a>
 </p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Visitor's count</h2></summary>
+  </ul>
+</div>
+<h4 align="center"> </h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
