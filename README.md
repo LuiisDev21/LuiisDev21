@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Insolata&size=25&pause=1000&color=28F70E&center=true&vCenter=true&width=435&lines=Hi%2C+Im+Luis;But+you+can+call+me+Xet...;Im+a+computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Insolata&size=25&duration=3000&pause=1000&color=28F70E&center=true&width=435&lines=Hi%2C+Im+Luis;But+you+can+call+me+Xet...;Im+a+computer+science+student)](https://git.io/typing-svg)
