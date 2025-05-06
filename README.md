@@ -30,6 +30,9 @@
 </table>
 <!--- stats (end) -->
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
