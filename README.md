@@ -59,7 +59,6 @@
   </a>
 </p>
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Visitor's count</h2></summary>
