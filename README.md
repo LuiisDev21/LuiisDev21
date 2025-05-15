@@ -55,7 +55,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,js,css,html,react,vue,astro,vite,go,sqlite,nodejs,net,flask,visualstudio,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,cs,js,css,html,react,nextjs,astro,vite,go,sqlite,nodejs,net,flask,visualstudio,vscode,&perline=14" />
   </a>
 </p>
 
