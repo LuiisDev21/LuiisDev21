@@ -1,6 +1,9 @@
 
-# <p align="center">Hello World!</p>
-  
+# <p align="center">Hello World!
+[![committers.top badge](https://user-badge.committers.top/nicaragua/MrXetwy21.svg)](https://user-badge.committers.top/nicaragua/MrXetwy21)
+</p>
+
+----------
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Insolata&size=25&duration=3000&pause=1000&color=28F70E&center=true&width=435&lines=Hi%2C+Im+Luis;But+you+can+call+me+Xet...;Im+a+computer+science+student" alt="Typing SVG" />
@@ -8,11 +11,9 @@
 </p>
 
 
-----------
+
 ![snake gif](https://github.com/MrXetwy21/MrXetwy21/blob/main/github-user-contribution.svg)
 
-[![committers.top badge](https://user-badge.committers.top/nicaragua/MrXetwy21.svg)](https://user-badge.committers.top/nicaragua/MrXetwy21)
-----------
 
 <div id="user-content-toc">
   <ul align="center">
