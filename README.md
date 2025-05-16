@@ -13,6 +13,7 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Insolata&size=25&duration=3000&pause=1000&color=28F70E&center=true&width=435&lines=Hi%2C+Im+Luis;But+you+can+call+me+Xet...;Im+a+computer+science+student" alt="Typing SVG" />
     </a>
+    <p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
 </p>
 
 
@@ -69,10 +70,7 @@
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Visitor's count</h2></summary>
-  </ul>
-</div>
-<h4 align="center"> </h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=01jodlmaqa70w500seiypppls&width=600)
+
+
+
