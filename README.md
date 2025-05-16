@@ -8,8 +8,10 @@
 </p>
 
 
-
 ----------
+![Snake](https://github.com/MrXetwy21/MrXetwy21/blob/main/assets/snake.svg)
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
