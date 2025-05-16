@@ -1,8 +1,11 @@
 
 # <p align="center">Hello World!
+![❤️](https://img.shields.io/badge/%E2%9D%A4-red)
 ![Nicaragua](https://img.shields.io/badge/Country-Nicaragua-blue)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?logo=telegram)](https://t.me/Xetwy)
 [![committers.top badge](https://user-badge.committers.top/nicaragua/MrXetwy21.svg)](https://user-badge.committers.top/nicaragua/MrXetwy21)
 <img src="https://flagsapi.com/NI/flat/32.png" alt="Nicaragua" height="20"/>
+
 </p>
 
 ----------
