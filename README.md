@@ -9,7 +9,7 @@
 
 
 ----------
-![snake gif](¿https://github.com/MrXetwy21/MrXetwy21/blob/main/github-user-contribution.svg)
+![snake gif](https://github.com/MrXetwy21/MrXetwy21/blob/main/github-user-contribution.svg)
 
 
 
