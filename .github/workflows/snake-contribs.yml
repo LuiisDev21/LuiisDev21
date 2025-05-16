@@ -1,0 +1,27 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Contribution Graph
+        uses: platane/snk@v2
+        with:
+          github_user_name: MrXetwy21
+          # Optional settings
+          svg: true
+          scale: 3
+
+      - name: Commit and push Snake Contribution Graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'snake.svg'
+          message: 'Update Snake contribution graph'
