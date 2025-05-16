@@ -1,6 +1,8 @@
 
 # <p align="center">Hello World!
+![Nicaragua](https://img.shields.io/badge/Country-Nicaragua-blue)
 [![committers.top badge](https://user-badge.committers.top/nicaragua/MrXetwy21.svg)](https://user-badge.committers.top/nicaragua/MrXetwy21)
+<img src="https://flagsapi.com/NI/flat/32.png" alt="Nicaragua" height="20"/>
 </p>
 
 ----------
