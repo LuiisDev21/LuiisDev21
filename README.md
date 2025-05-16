@@ -1,6 +1,7 @@
-
+<!-- TITULO -->
 # <p align="center">Hello World!</p>
 
+<!-- BADGES -->
 <p align="center">
     <img src="https://img.shields.io/badge/%E2%9D%A4-red" alt="❤️"/>
     <img src="https://img.shields.io/badge/Country-Nicaragua-blue" alt="Nicaragua"/>
@@ -21,9 +22,6 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
 </p>
 
-
-
-![snake gif](https://github.com/MrXetwy21/MrXetwy21/blob/main/github-user-contribution.svg)
 
 
 <div id="user-content-toc">
