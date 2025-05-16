@@ -11,7 +11,8 @@
 ----------
 ![snake gif](https://github.com/MrXetwy21/MrXetwy21/blob/main/github-user-contribution.svg)
 
-
+[![committers.top badge](https://user-badge.committers.top/nicaragua/MrXetwy21.svg)](https://user-badge.committers.top/nicaragua/MrXetwy21)
+----------
 
 <div id="user-content-toc">
   <ul align="center">
