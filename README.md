@@ -14,6 +14,7 @@
     <img src="https://flagsapi.com/NI/flat/32.png" alt="Nicaragua" height="20"/>
 </p>
 
+<!-- CONTADOR + TEXTO -->
 ----------
 <p align="center">
     <a href="https://git.io/typing-svg">
@@ -22,8 +23,8 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
 </p>
 
-
-
+----------
+<!-- STATS -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
@@ -32,19 +33,18 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MrXetwy21&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mrxetwy21&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MrXetwy21&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxetwy21&theme=blue-green&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrXetwy21&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxetwy21&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
   
   </td>
 </tr>
@@ -72,6 +72,12 @@
     <img src="https://skillicons.dev/icons?i=python,cs,js,css,html,react,nextjs,astro,vite,go,sqlite,nodejs,net,flask,visualstudio,vscode,&perline=14" />
   </a>
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Miscellaneous</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
     <img alt="Alt text" src="https://spotify-recently-played-readme.vercel.app/api?user=01jodlmaqa70w500seiypppls&width=600" />
