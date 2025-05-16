@@ -1,11 +1,16 @@
 
-# <p align="center">Hello World!
-![❤️](https://img.shields.io/badge/%E2%9D%A4-red)
-![Nicaragua](https://img.shields.io/badge/Country-Nicaragua-blue)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?logo=telegram)](https://t.me/Xetwy)
-[![committers.top badge](https://user-badge.committers.top/nicaragua/MrXetwy21.svg)](https://user-badge.committers.top/nicaragua/MrXetwy21)
-<img src="https://flagsapi.com/NI/flat/32.png" alt="Nicaragua" height="20"/>
+# <p align="center">Hello World!</p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/%E2%9D%A4-red" alt="❤️"/>
+    <img src="https://img.shields.io/badge/Country-Nicaragua-blue" alt="Nicaragua"/>
+    <a href="https://t.me/Xetwy">
+        <img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?logo=telegram" alt="Telegram"/>
+    </a>
+    <a href="https://user-badge.committers.top/nicaragua/MrXetwy21">
+        <img src="https://user-badge.committers.top/nicaragua/MrXetwy21.svg" alt="committers.top badge"/>
+    </a>
+    <img src="https://flagsapi.com/NI/flat/32.png" alt="Nicaragua" height="20"/>
 </p>
 
 ----------
@@ -70,7 +75,9 @@
   </a>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=01jodlmaqa70w500seiypppls&width=600)
+<p align="center">
+    <img alt="Alt text" src="https://spotify-recently-played-readme.vercel.app/api?user=01jodlmaqa70w500seiypppls&width=600" />
+</p>
 
 
 
