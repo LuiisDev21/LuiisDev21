@@ -9,7 +9,8 @@
 
 
 ----------
-![Snake](https://github.com/MrXetwy21/MrXetwy21/blob/main/assets/snake.svg)
+![snake gif](https://github.com/MrXetwy21/MrXetwy21/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div id="user-content-toc">
