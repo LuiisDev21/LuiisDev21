@@ -39,7 +39,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mrxetwy21&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700">    <img  alt="mrxetwy21's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mrxetwy21?cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700" />  </a>
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxetwy21&theme=blue-green&hide_border=true" /> 
 </td>
