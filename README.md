@@ -23,6 +23,8 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MrXetwy21 :: Visitor's Count" /></p>
 </p>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="Snake" /></p>
+
 ----------
 <!-- STATS -->
 <div id="user-content-toc">
