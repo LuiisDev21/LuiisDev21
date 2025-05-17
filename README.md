@@ -38,29 +38,17 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-  <!-- ESTADÍSTICAS GENERALES Y RACHA -->
-  <td width="50%" align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700">
-      <img alt="ESTADÍSTICAS DE MRXETWY21" src="https://awesome-github-stats.azurewebsites.net/user-stats/mrxetwy21?cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700" />
-    </a>
-    <br></br>
-    <img title="🔥 RACHA DE COMMITS" alt="RACHA" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxetwy21&theme=blue-green&hide_border=true" />
-  </td>
-  <!-- LENGUAJES MÁS USADOS Y REPOS POR LENGUAJE -->
-  <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxetwy21&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
-    <br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrxetwy21&theme=github_dark" />
-  </td>
-</tr>
-<!-- DETALLES DE PERFIL Y TROFEOS -->
-<tr border="none">
-  <td colspan="2" align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrxetwy21&theme=github_dark" />
-    <br></br>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="IR A TROFEOS">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=MrXetwy21&theme=radical" alt="TROFEOS" />
-    </a>
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mrxetwy21&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxetwy21&theme=blue-green&hide_border=true" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxetwy21&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
+  
   </td>
 </tr>
 </table>
