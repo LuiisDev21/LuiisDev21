@@ -84,7 +84,3 @@
     <summary><h2 style="display: inline-block">Miscellaneous</h2></summary>
   </ul>
 </div>
-<!-- SPOTIFY RECIENTE -->
-<p align="center">
-    <img alt="SPOTIFY RECIENTE" src="https://spotify-recently-played-readme.vercel.app/api?user=01jodlmaqa70w500seiypppls&width=600" />
-</p>
