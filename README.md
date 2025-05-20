@@ -44,7 +44,7 @@
       <img alt="ESTADÍSTICAS DE MRXETWY21" src="https://awesome-github-stats.azurewebsites.net/user-stats/mrxetwy21?cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700" />
     </a>
     <br></br>
-    <img title="🔥 RACHA DE COMMITS" alt="RACHA" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxetwy21&theme=blue-green&hide_border=true" />
+    <img title="🔥 RACHA DE COMMITS" alt="RACHA" src="https://nirzak-streak-stats.vercel.app/?user=mrxetwy21&theme=vue-dark&hide_border=true" />
   </td>
   <!-- LENGUAJES MÁS USADOS Y REPOS POR LENGUAJE -->
   <td width="50%" align="center">
