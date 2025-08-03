@@ -14,15 +14,6 @@
     <img src="https://flagsapi.com/NI/flat/32.png" alt="NICARAGUA" height="20"/>
 </p>
 
-<!-- CONTADOR DE VISITAS Y TEXTO DE PRESENTACIÓN -->
-----------
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Insolata&size=25&duration=3000&pause=1000&color=28F70E&center=true&width=435&lines=Hi%2C+Im+Luis;But+you+can+call+me+Xet...;Im+a+computer+science+student" alt="TYPING SVG" />
-    </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{MrXetwy21}/count.svg" alt="MRXETWY21 :: VISITAS" /></p>
-</p>
-
 <!-- ANIMACIÓN SNAKE -->
 ![snake](https://github.com/MrXetwy21/MrXetwy21/blob/main/snake.svg)
 
