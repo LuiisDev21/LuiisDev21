@@ -5,9 +5,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/%E2%9D%A4-red" alt="❤️"/>
     <img src="https://img.shields.io/badge/Country-Nicaragua-blue" alt="NICARAGUA"/>
-    <a href="https://t.me/Xetwy">
-        <img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?logo=telegram" alt="TELEGRAM"/>
-    </a>
     <a href="https://user-badge.committers.top/nicaragua/LuiisDev21">
         <img src="https://user-badge.committers.top/nicaragua/LuiisDev21.svg" alt="COMMITTERS.TOP BADGE"/>
     </a>
