@@ -36,13 +36,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuiisDev21&theme=github_dark" />
   </td>
 </tr>
-<tr border="none">
-  <td colspan="2" align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="IR A TROFEOS">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=LuiisDev21&theme=radical" alt="TROFEOS" />
-    </a>
-  </td>
-</tr>
+
 </table>
 <div id="user-content-toc">
   <ul align="center">
