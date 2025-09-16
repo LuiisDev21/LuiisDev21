@@ -48,10 +48,4 @@
     <img src="https://skillicons.dev/icons?i=python,cs,js,css,html,react,nextjs,astro,vite,go,sqlite,nodejs,net,flask,visualstudio,vscode,&perline=14" />
   </a>
 </p>
-<div style="text-align: center;">
-  <a href="https://www.buymeacoffee.com/LuisDev21" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-         alt="Buy Me A Coffee" 
-         style="height: 60px; width: 217px;" />
-  </a>
-</div>
+
