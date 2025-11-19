@@ -10,7 +10,6 @@
     <a href="https://user-badge.committers.top/nicaragua_private/LuiisDev21">
         <img src="https://user-badge.committers.top/nicaragua_private/LuiisDev21.svg" alt="COMMITTERS.TOP BADGE"/>
     </a>
-    <img src="https://flagsapi.com/NI/flat/32.png" alt="NICARAGUA" height="20"/>
 </p>
 
 
