@@ -11,9 +11,7 @@
     <img src="https://flagsapi.com/NI/flat/32.png" alt="NICARAGUA" height="20"/>
 </p>
 
-![snake](https://github.com/LuiisDev21/LuiisDev21/blob/main/snake.svg)
 
-----------
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">GiiHub Stats</h2></summary>
@@ -49,3 +47,4 @@
   </a>
 </p>
 
+![snake](https://github.com/LuiisDev21/LuiisDev21/blob/main/snake.svg)
