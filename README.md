@@ -40,8 +40,12 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuiisDev21&theme=github_dark" />
   </td>
 </tr>
-
 </table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiisdev21&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tech</h2></summary>
