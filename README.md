@@ -35,8 +35,6 @@
     <img title="commits" alt="RACHA" src="https://nirzak-streak-stats.vercel.app/?user=LuiisDev21&theme=vue-dark&hide_border=true" />
   </td>
   <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisDev21&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
-    <br>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuiisDev21&theme=github_dark" />
   </td>
 </tr>
