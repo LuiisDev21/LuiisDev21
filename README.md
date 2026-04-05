@@ -32,10 +32,11 @@
       <img alt="ESTADÍSTICAS DE LuiisDev21" src="https://awesome-github-stats.azurewebsites.net/user-stats/LuiisDev21?cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700" />
     </a>
     <br></br>
-    <img title="commits" alt="RACHA" src="https://nirzak-streak-stats.vercel.app/?user=LuiisDev21&theme=vue-dark&hide_border=true" />
   </td>
   <td width="50%" align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuiisDev21&theme=github_dark" />
+    <a href="https://gh-stats-xcards.onrender.com/?username=luiisdev21&amp;theme=dark&amp;card=top-languages&amp;show_avatar=false&amp;hide_border=true">
+  <img alt="luiisdev21's GitHub Stats" src="https://gh-stats-xcards.onrender.com/stats/luiisdev21?theme=dark&amp;card=top-languages&amp;show_avatar=false&amp;hide_border=true" />
+</a>
   </td>
 </tr>
 </table>
