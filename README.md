@@ -29,9 +29,9 @@
 <tr border="none">
   <td width="50%" align="center">
 
-  <a href="https://gh-stats-xcards.fly.dev/?username=Luiisdev21&amp;theme=vue-dark&amp;card=github&amp;show_avatar=true&amp;hide_border=false">
-  <img alt="Luiisdev21's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Luiisdev21?theme=vue-dark&amp;card=github&amp;show_avatar=true&amp;hide_border=false" />
-  </a>
+<a href="https://gh-stats-xcards.fly.dev/?username=Luiisdev21&amp;theme=vue&amp;card=github&amp;show_avatar=true&amp;hide_border=false">
+  <img alt="Luiisdev21's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Luiisdev21?theme=vue&amp;card=github&amp;show_avatar=true&amp;hide_border=false" />
+</a>
 
   </td>
   <td width="50%" align="center">
