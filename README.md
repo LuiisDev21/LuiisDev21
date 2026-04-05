@@ -28,21 +28,30 @@
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700">
-      <img alt="ESTADÍSTICAS DE LuiisDev21" src="https://awesome-github-stats.azurewebsites.net/user-stats/LuiisDev21?cardType=level&theme=chartreuse-dark&preferLogin=true&Border=DD272700" />
+    <a href="https://gh-stats-xcards.fly.dev/?username=Luiisdev21&amp;theme=vue&amp;card=github&amp;show_avatar=true&amp;hide_border=false">
+  <img alt="Luiisdev21's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Luiisdev21?theme=vue&amp;card=github&amp;show_avatar=true&amp;hide_border=false" />
+</a>
+
+</a>
     </a>
     <br></br>
   </td>
   <td width="50%" align="center">
-    <a href="https://gh-stats-xcards.onrender.com/?username=luiisdev21&amp;theme=dark&amp;card=top-languages&amp;show_avatar=false&amp;hide_border=true">
-  <img alt="luiisdev21's GitHub Stats" src="https://gh-stats-xcards.onrender.com/stats/luiisdev21?theme=dark&amp;card=top-languages&amp;show_avatar=false&amp;hide_border=true" />
+  <a href="https://gh-stats-xcards.fly.dev/?username=Luiisdev21&amp;theme=vue&amp;card=streak&amp;hide_border=false">
+  <img alt="Luiisdev21's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Luiisdev21?theme=vue&amp;card=streak&amp;hide_border=false" />
+    
+  <a href="https://gh-stats-xcards.fly.dev/?username=Luiisdev21&amp;theme=vue&amp;card=top-languages&amp;hide_border=false">
+  <img alt="Luiisdev21's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Luiisdev21?theme=vue&amp;card=top-languages&amp;hide_border=false" />
+</a>
 </a>
   </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiisdev21&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://gh-stats-xcards.fly.dev/?username=Luiisdev21&amp;theme=vue&amp;card=contribution-graph&amp;hide_border=false">
+  <img alt="Luiisdev21's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Luiisdev21?theme=vue&amp;card=contribution-graph&amp;hide_border=false" />
+</a>
 </div>
 
 <div id="user-content-toc">
